@@ -36,7 +36,19 @@
   <tr>
     <td align="center"><sub><b>5</b></td>
     <td align="center"><sub><b>카메라 회전 고치기</b></td>  
-    <td align="center"><sub><b>✔/b></td>  
+    <td align="center"><sub><b>✔</b></td>  
+  </tr>   
+  
+  <tr>
+    <td align="center"><sub><b>6</b></td>
+    <td align="center"><sub><b>카메라 셀프 카메라로 켜기</b></td>  
+    <td align="center"><sub><b>~ing</b></td>  
+  </tr>
+  
+  <tr>
+    <td align="center"><sub><b>7</b></td>
+    <td align="center"><sub><b>AI 얼굴 인식</b></td>  
+    <td align="center"><sub><b>~ing</b></td>  
   </tr>    
       
 </table>
