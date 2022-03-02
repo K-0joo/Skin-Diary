@@ -4,14 +4,11 @@
 </br>
 <a href="https://github.com/K-0joo"><img src="https://avatars.githubusercontent.com/u/83263735?v=4?s=100" width="100px;" alt="">
 </br>
- ``` K-0joo ```
+ 🙋‍♀️ K-0joo 
 
 </br>
-</br>
-
 
 # 📱 개발 진행 사항
-</br>
 </br>
 
 <table>
