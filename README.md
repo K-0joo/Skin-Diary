@@ -18,19 +18,19 @@
   <tr>
     <td align="center"><sub><b>2</b></td>
     <td align="center"><sub><b>카메라 권한 요청 기능</b></td>
-    <td align="center"><sub><b>✔/b></td>
+    <td align="center"><sub><b>✔</b></td>
   </tr>
       
   <tr>
     <td align="center"><sub><b>3</b></td>
     <td align="center"><sub><b>카메라 켜기 기능</b></td>
-    <td align="center"><sub><b>✔/b></td>
+    <td align="center"><sub><b>✔</b></td>
   </tr>
       
   <tr>
     <td align="center"><sub><b>4</b></td>
     <td align="center"><sub><b>카메라 찍은 사진 앱으로 불러오기</b></td>  
-    <td align="center"><sub><b>✔/b></td>  
+    <td align="center"><sub><b>✔</b></td>  
   </tr>
       
   <tr>
