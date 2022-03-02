@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--파일 경로 선언.-->
+    <external-files-path name="myfiles" path="Android/data/com.cso.skin_diary/files/Pictures" />
+    <!--디렉토리 외부 저장소 -->
+    <external-path name="external_files" path="."/>
+</paths>
