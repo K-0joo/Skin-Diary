@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=AI%20Develop%&fontSize=50&animation=twinkling)
 
 # 개발자
-<img src="https://avatars.githubusercontent.com/u/93895246?v=4?v=4?s=100" width="100px;" alt="">
-<td align="center"><sub><b>K-0joo</b></td>
+<a href="https://github.com/K-0joo"><img src="https://avatars.githubusercontent.com/u/83263735?v=4?s=100" width="100px;" alt="">
+``` K-0joo ```
 
 # 📱 개발 진행 사항
 </br>
