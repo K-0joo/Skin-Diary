@@ -1,8 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=AI%20Develop%&fontSize=50&animation=twinkling)
 
-# 개발자
+# 💻 개발자
+</br>
 <a href="https://github.com/K-0joo"><img src="https://avatars.githubusercontent.com/u/83263735?v=4?s=100" width="100px;" alt="">
-``` K-0joo ```
+</br>
+ ``` K-0joo ```
+
+</br>
+</br>
+
 
 # 📱 개발 진행 사항
 </br>
@@ -60,3 +66,6 @@
 </table>
 
 </br>
+</br>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=100&section=footer)
